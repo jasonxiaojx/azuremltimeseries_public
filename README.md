@@ -1,5 +1,8 @@
 # Stock Price Forecasting via AlphaVantage and AzureML
 
+## TLDR; Use UploadData.py to upload and mine stock price data. Use stockforecast_automl.ipynb and stockforecast_prophet.ipynb for forecasting. Make sure to create your own forecasting resources beforehand.
+
+
 ## Objective: 
 * Compare AzureML forecasting models with other forecasting models for prediction accuracy of stock prices under both high and low volatility time segments. Also assess the two model’s capability in making profitable trading decisions. (MAYBE)
 
